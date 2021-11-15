@@ -27,6 +27,10 @@ In this stage, you are going to combine the Online Retail II data from 2009–20
 - Q1
 - Q2
 
-Please make sure to add the complete, required code and relevant answers for the Dataset Assessment (Part 1) and General Questions (Part 2) in a Jupyter notebook and send the notebook file to support@teamepic.io.
+Please make sure to add the complete, required code and relevant answers for the Dataset Assessment (Part 1) and General Questions (Part 2) in a Jupyter notebook and send the notebook file to **support@teamepic.io**. Failure to complete both parts of the assessment may result in rejection.
 
-Please use proper nomenclature for the Jupyter Notebook, for example, DA\_Round2\_JohnDoe or anything which will help us to identify your submissions easily.
+Please use proper nomenclature for the Jupyter Notebook, for example, ***DA\_Round2\_JohnDoe*** or anything which will help us to identify your submissions easily.
+
+The Final Submission Date for the assessment will be ***19th November 2021, 11 PM***.
+
+**All the Best!**
