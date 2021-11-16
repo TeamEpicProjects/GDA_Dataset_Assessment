@@ -34,6 +34,6 @@ Please make sure to add the complete, required code and relevant answers for the
 
 Please use proper nomenclature for the Jupyter Notebook, for example, ***DA\_Round2\_JohnDoe*** or anything which will help us to identify your submissions easily.
 
-The Final Submission Date for the assessment will be ***19th November 2021, 11 PM***.
+You are expected to complete and submit the assessment as Jupyter notebooks in 48 hours. The Final Submission Date for the assessment has been communicated to you on email.
 
 **All the Best!**
